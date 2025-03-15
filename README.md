@@ -50,7 +50,6 @@ plt.title('Price Change vs. Quantity Change')
 plt.grid(True)
 plt.show()
 ```
-**Placeholder for Image:**
 
 ![Price Change vs Quantity Change](https://github.com/Sourabh1710/Price-Elasticity-of-Demand-Analysis/blob/main/images/Price%20Change%20vs%20Quantity%20Change.png)
 
@@ -76,9 +75,8 @@ segment_counts = data['Segment'].value_counts()
 print(segment_counts)
 ```
 
-**Placeholder for Image:**
 
-![Price Change vs Quantity Change Across Different Market Segments]([path_to_segmented_ped_image.png](https://github.com/Sourabh1710/Price-Elasticity-of-Demand-Analysis/blob/main/images/Price%20Change%20vs%20Quantity%20Change%20Across%20Different%20Market%20Segments.png))
+![Price Change vs Quantity Change Across Different Market Segments](https://github.com/Sourabh1710/Price-Elasticity-of-Demand-Analysis/blob/main/images/Price%20Change%20vs%20Quantity%20Change%20Across%20Different%20Market%20Segments.png)
 
 This visualization represents different market segments categorized by elasticity:
 - **Negative Elasticity**: Price increases lead to quantity decreases.
